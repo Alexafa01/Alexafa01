@@ -1,7 +1,7 @@
 # Alex Ferreira Alves
 ![Animated GIF via GIPHY](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxsM2lvbGhrcDlzZXZpNnZsY3QwN3N0YTVkajhyeDUyZTczc24zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQFmUxcwe7QzfcScFm/giphy.gif)
 
-Sou estudande do Análise e Desenvolvimento de Sistemas atualmente no 4° e ultimo semestre. 
+Graduado em  Análise e Desenvolvimento de Sistemas atualmente. 
 Acredito na importância de colaborar e estar aberto a aprender com os outros. Para mim, cada dia é uma oportunidade de aprendizado. Sou sincero ao lidar com desafios: se encontro uma situação sobre a qual não tenho conhecimento, não hesito em admitir que desconheço o assunto, mas me comprometo a buscar as informações necessárias para contribuir da melhor maneira possível.
 
 ### Conecte-se comigo
